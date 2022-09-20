@@ -1,6 +1,6 @@
 # FAT32
 
-A user space shell that interprets FAT32 file systemm image.
+A user space shell that interprets FAT32 file system image.
 
 # Commands
 
